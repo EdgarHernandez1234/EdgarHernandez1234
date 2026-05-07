@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im Edgar Hernandez, a Computer Science major.
+Im Edgar, a Computer Science major.
