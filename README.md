@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im Edgar, a Computer Science major. Here is more info about me
+Im Edgar, a Embedded Systems enthusiast. Here is more info about me and what I'm working on
 https://edgarhernandez1234.github.io/Personal_Website/
