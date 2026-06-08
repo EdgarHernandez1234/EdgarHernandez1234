@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im Edgar, an Embedded Systems enthusiast and software engineer. Here is more info about me and what I'm working on
+Im Edgar, an Embedded Systems enthusiast and Software Engineer. Here is more info about me and what I'm working on
 https://edgarhernandez1234.github.io/Personal_Website/
